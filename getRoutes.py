@@ -6,6 +6,15 @@ import pandas as pd
 import polyline
 import geopandas as gpd
 from shapely.geometry import LineString
+from polyline import decode
+import logging
+
+# Set up logging
+logging.basicConfig(
+    filename="log/getRoutes.log",
+    level=logging.INFO, 
+    format='%(asctime)s - %(levelname)s - %(message)s'
+    )
 
 # Load environment variables from .env file
 load_dotenv()
@@ -47,16 +56,21 @@ for index, row in data.iterrows():
     dropoff = row['DO_Address']
     route = get_route(pickup, dropoff)
     if route and 'routes' in route and route['routes']:
+
+        decoded_points = decode(route['routes'][0]['overview_polyline']['points'])
+        swapped_points = [[lng, lat] for lat, lng in decoded_points]
+
         results.append({
             'Date': date,
             'Time': time,
             'Pickup_Address': pickup,
             'Dropoff_Address': dropoff,
-            'Polyline_Points': polyline.decode(route['routes'][0]['overview_polyline']['points']),
+            'Polyline_Points': swapped_points,
         })
     else:
         print(f"No route found for {pickup} to {dropoff}")
-
+        logging.error(f"No route found for {pickup} to {dropoff}")
+        
 results_df = pd.DataFrame(results)
 print(results_df.columns)
 results_df.to_csv("pu-routes/trip_routes_07.csv", index=False)
@@ -72,4 +86,3 @@ gdf.set_crs(epsg=4326, inplace=True)
 gdf.to_file("pu-routes/trip_routes_07.geojson", driver="GeoJSON")
 
 # Todo1: wrap it into a main function
-# Todo2: add a logging file for error route not found
