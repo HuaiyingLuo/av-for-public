@@ -14,7 +14,7 @@ load_dotenv()
 data = pd.read_csv('pu-data/other-Federal_02216.csv')
 
 # Filter for July 2014
-data = data[data['Date'].str.contains('2014-07')]
+data = data[data['Date'].str.contains(r'07/\d{2}/2014')]
 
 # API key and base URL
 API_KEY = os.getenv('GOOGLE_MAPS_API_KEY')
@@ -46,7 +46,7 @@ for index, row in data.iterrows():
     pickup = row['PU_Address']
     dropoff = row['DO_Address']
     route = get_route(pickup, dropoff)
-    if route:
+    if route and 'routes' in route and route['routes']:
         results.append({
             'Date': date,
             'Time': time,
@@ -58,6 +58,7 @@ for index, row in data.iterrows():
         print(f"No route found for {pickup} to {dropoff}")
 
 results_df = pd.DataFrame(results)
+print(results_df.columns)
 results_df.to_csv("pu-routes/trip_routes_07.csv", index=False)
 
 # Create a GeoDataFrame with geometries
@@ -70,3 +71,5 @@ gdf = gpd.GeoDataFrame(geo_df, geometry=geometries)
 gdf.set_crs(epsg=4326, inplace=True)
 gdf.to_file("pu-routes/trip_routes_07.geojson", driver="GeoJSON")
 
+# Todo1: wrap it into a main function
+# Todo2: add a logging file for error route not found
