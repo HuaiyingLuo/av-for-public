@@ -4,8 +4,13 @@ This file contains raw data on pickups from a non-Uber FHV company. The trip inf
 visit this link on Kaggle: https://www.kaggle.com/datasets/fivethirtyeight/uber-pickups-in-new-york-city?select=other-Federal_02216.csv
 
 ## Data Overview
-* other-Federal_02216.csv: 276 records in total 
+pu-data/other-Federal_02216.csv: 
+* 276 records in total 
 * Range of dates: 2014-06-30 to 2014-09-27
+pu-data/trip_data_6.csv:
+* 14385456 records in total
+* Range of dates: 2013-06-01 to 2013-06-30
+
 
 ## File Structure
 * pu-data/: contains the raw data
@@ -18,5 +23,5 @@ Change TODOs in the code for customizing the output.
 
 ## Setup
 * .env: contains the environment variables, see example.env. Put your own API key in there.
-* requirements.txt: contains the dependencies
+* requirements.txt: contains the dependencies.
 Run `pip install -r requirements.txt` to install the dependencies

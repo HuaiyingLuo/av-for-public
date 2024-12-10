@@ -2,6 +2,7 @@
 qgis/
 pu-data/
 pu-routes/
+road-data/
 log/
 .venv/
 .DS_Store
