@@ -63,10 +63,10 @@ def main():
     for sample in samples:
         sample_path = f"sample-data/{sample}"
         batch_index = sample.split('_')[-1].split('.')[0]
+        logging.info(f"Processing batch {batch_index}")
         data = load_data(sample_path)
         results = []
-        for index, row in tqdm(data.iterrows(), total=data.shape[0], desc=f"Processing batch {batch_index}"):
-            logging.info(f"Processing batch {batch_index}")
+        for index, row in tqdm(data.iterrows(), total=data.shape[0], desc=f"Processing batch {batch_index}"):   
             pickup = f"{row['pickup_latitude']},{row['pickup_longitude']}"
             dropoff = f"{row['dropoff_latitude']},{row['dropoff_longitude']}"
             route = get_route(pickup, dropoff, API_KEY, ENDPOINT)
@@ -86,11 +86,11 @@ def main():
                 print(f"No route found for record {row['id']}")
                 logging.error(f"No route found for record {row['id']}")
         
-            # Save results for the current batch
-            save_results_to_csv(results, f"pu-routes/trip_201306_{batch_index}.csv")
-            save_results_to_geojson(results, f"pu-routes/trip_201306_{batch_index}.geojson")
-            print(f"Batch {batch_index} saved")
-            logging.info(f"Batch {batch_index} saved")
+        # Save results for the current batch
+        save_results_to_csv(results, f"pu-routes/trip_201306_{batch_index}.csv")
+        save_results_to_geojson(results, f"pu-routes/trip_201306_{batch_index}.geojson")
+        print(f"Batch {batch_index} saved")
+        logging.info(f"Batch {batch_index} saved")
 
     print("All routes saved")
 

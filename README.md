@@ -16,12 +16,17 @@ visit this link on Kaggle: https://www.kaggle.com/datasets/fivethirtyeight/uber-
 * pu-routes/: contains the processed route data
 * log/: contains the log file
 * EDA.ipynb: exploratory data analysis
+* sample.py: sample the data into smaller batches.
+Run `python sample.py` to sample raw data and save as batches.
 * getRoutes.py: get routes from Google Maps API. 
 Run `python getRoutes.py` to get the routes.
-Change TODOs in the code for customizing the output.
+* merge.py: merge all the routes into one geojson file.
+Run `python merge.py` to get the geojson file.
+
 
 ## Setup
 * .env: contains the environment variables. See example.env. Put your own API key in there.
 * requirements.txt: contains the dependencies.
 Run `pip install -r requirements.txt` to install the dependencies
+
 

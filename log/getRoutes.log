@@ -1,152 +1,804 @@
-2024-12-11 12:07:02,924 - ERROR - No route found for 0.0,0.0 to 0.0,0.0
-2024-12-11 12:07:11,682 - ERROR - No route found for 0.0,0.0 to 0.0,0.0
-2024-12-11 12:07:14,953 - ERROR - No route found for 0.0,0.0 to 0.0,0.0
-2024-12-11 12:07:15,077 - ERROR - No route found for 0.0,0.0 to 0.0,0.0
-2024-12-11 12:07:34,975 - ERROR - No route found for 0.0,0.0 to 40.742798,-73.991882
-2024-12-11 12:07:35,696 - ERROR - No route found for 0.0,0.0 to 0.0,0.0
-2024-12-11 12:08:24,360 - ERROR - No route found for 40.760513,-73.958153 to 40.771667,0.0
-2024-12-11 12:08:54,304 - ERROR - No route found for 0.0,0.0 to 0.0,0.0
-2024-12-11 12:08:59,100 - ERROR - No route found for 40.643383,-73.790016 to 0.0,0.0
-2024-12-11 12:09:12,023 - ERROR - No route found for 0.0,0.0 to 0.0,0.0
-2024-12-11 12:09:24,701 - ERROR - No route found for 0.0,0.0 to 0.0,0.0
-2024-12-11 12:09:57,444 - ERROR - No route found for 0.0,0.0 to 0.0,0.0
-2024-12-11 12:10:01,111 - ERROR - No route found for 0.0,0.0 to 0.0,0.0
-2024-12-11 12:10:15,170 - ERROR - No route found for 0.0,0.0 to 0.0,0.0
-2024-12-11 12:10:21,560 - ERROR - No route found for 0.0,0.0 to 0.0,0.0
-2024-12-11 12:10:22,758 - ERROR - No route found for 0.0,0.0 to 0.0,0.0
-2024-12-11 12:10:34,970 - ERROR - No route found for 0.0,0.0 to 0.0,0.0
-2024-12-11 12:10:41,118 - ERROR - No route found for 0.0,0.0 to 0.0,0.0
-2024-12-11 12:11:07,041 - ERROR - No route found for 0.0,0.0 to 0.0,0.0
-2024-12-11 12:11:15,554 - ERROR - No route found for 0.0,0.0 to 0.0,0.0
-2024-12-11 12:11:18,302 - ERROR - No route found for 0.0,0.0 to 0.0,0.0
-2024-12-11 12:23:15,670 - INFO - Created 1 records
-2024-12-11 12:23:15,909 - INFO - Created 1 records
-2024-12-11 12:23:16,178 - INFO - Created 1 records
-2024-12-11 12:23:16,424 - INFO - Created 1 records
-2024-12-11 12:26:39,923 - ERROR - No route found for 0.0,0.0 to 0.0,0.0
-2024-12-11 12:26:45,866 - ERROR - No route found for 0.0,0.0 to 0.0,0.0
-2024-12-11 12:26:51,051 - ERROR - No route found for 0.0,0.0 to 0.0,0.0
-2024-12-11 12:26:54,223 - ERROR - No route found for 0.0,0.0 to 0.0,0.0
-2024-12-11 12:26:54,537 - ERROR - No route found for 0.0,0.0 to 0.0,0.0
-2024-12-11 12:26:59,167 - ERROR - No route found for 0.0,0.0 to 0.0,0.0
-2024-12-11 12:27:32,277 - ERROR - No route found for 0.0,0.0 to 0.0,0.0
-2024-12-11 12:27:34,832 - ERROR - No route found for 40.695053,-74.177292 to 0.0,0.0
-2024-12-11 12:27:59,633 - ERROR - No route found for 0.0,0.0 to 40.78558,-73.972511
-2024-12-11 12:28:06,857 - ERROR - No route found for 0.0,0.0 to 0.0,0.0
-2024-12-11 12:28:14,455 - ERROR - No route found for 0.0,0.0 to 40.765598,-73.955292
-2024-12-11 12:28:19,622 - ERROR - No route found for 0.0,0.0 to 0.0,0.0
-2024-12-11 12:28:21,230 - ERROR - No route found for 40.743382,-73.99247 to 0.0,0.0
-2024-12-11 12:28:40,447 - ERROR - No route found for 0.0,0.0 to 0.0,0.0
-2024-12-11 12:28:41,630 - ERROR - No route found for 0.0,0.0 to 0.0,0.0
-2024-12-11 12:29:13,552 - ERROR - No route found for 40.709312,-74.01371 to 0.0,0.0
-2024-12-11 12:29:18,140 - ERROR - No route found for 0.0,0.0 to 0.0,0.0
-2024-12-11 12:29:37,134 - ERROR - No route found for 0.0,0.0 to 0.0,0.0
-2024-12-11 12:29:44,522 - ERROR - No route found for 0.0,0.0 to 0.0,0.0
-2024-12-11 12:29:45,489 - ERROR - No route found for 0.0,0.0 to 0.0,0.0
-2024-12-11 12:30:14,818 - ERROR - No route found for 0.0,0.0 to 0.0,0.0
-2024-12-11 12:30:36,157 - ERROR - No route found for 0.0,0.0 to 0.0,0.0
-2024-12-11 12:30:54,292 - ERROR - No route found for 0.0,0.0 to 0.0,0.0
-2024-12-11 12:30:57,843 - ERROR - No route found for 0.0,0.0 to 40.745178,-73.988472
-2024-12-11 12:31:09,680 - ERROR - No route found for 0.0,0.0 to 0.0,0.0
-2024-12-11 12:32:09,622 - ERROR - No route found for 0.0,0.0 to 0.0,0.0
-2024-12-11 12:32:10,185 - ERROR - No route found for 0.0,0.0 to 0.0,0.0
-2024-12-11 12:32:14,851 - ERROR - No route found for 0.0,0.0 to 0.0,0.0
-2024-12-11 12:32:15,823 - ERROR - No route found for 0.0,0.0 to 0.0,0.0
-2024-12-11 12:32:21,791 - ERROR - No route found for 0.0,0.0 to 40.785172,-73.979095
-2024-12-11 12:32:26,441 - ERROR - No route found for 0.0,0.0 to 0.0,0.0
-2024-12-11 12:32:31,533 - ERROR - No route found for 0.0,0.0 to 0.0,0.0
-2024-12-11 12:32:34,509 - ERROR - No route found for 0.0,0.0 to 0.0,0.0
-2024-12-11 12:32:36,804 - ERROR - No route found for 0.0,0.0 to 0.0,0.0
-2024-12-11 12:32:47,058 - ERROR - No route found for 40.741188,-73.9813 to 0.0,0.0
-2024-12-11 12:32:50,957 - ERROR - No route found for 0.0,0.0 to 0.0,0.0
-2024-12-11 12:33:08,165 - ERROR - No route found for 0.0,0.0 to 0.0,0.0
-2024-12-11 12:33:12,815 - ERROR - No route found for 0.0,0.0 to 0.0,0.0
-2024-12-11 12:33:56,260 - ERROR - No route found for 0.0,0.0 to 0.0,0.0
-2024-12-11 12:50:01,286 - ERROR - No route found for record 10549534
-2024-12-11 12:50:07,815 - ERROR - No route found for record 1772179
-2024-12-11 12:50:45,005 - ERROR - No route found for record 2535514
-2024-12-11 12:50:54,431 - ERROR - No route found for record 8204729
-2024-12-11 12:51:48,841 - ERROR - No route found for record 629356
-2024-12-11 12:52:05,981 - ERROR - No route found for record 6968228
-2024-12-11 12:52:06,093 - ERROR - No route found for record 12086852
-2024-12-11 12:52:15,569 - ERROR - No route found for record 3848381
-2024-12-11 12:52:25,323 - ERROR - No route found for record 5622984
-2024-12-11 12:52:28,700 - ERROR - No route found for record 9443042
-2024-12-11 12:52:30,628 - ERROR - No route found for record 5780653
-2024-12-11 12:52:40,789 - ERROR - No route found for record 11284392
-2024-12-11 12:52:53,540 - ERROR - No route found for record 7962973
-2024-12-11 12:53:14,709 - ERROR - No route found for record 3766995
-2024-12-11 12:53:41,999 - ERROR - No route found for record 8425243
-2024-12-11 12:53:45,435 - ERROR - No route found for record 10825960
-2024-12-11 12:53:54,675 - ERROR - No route found for record 14237154
-2024-12-11 12:53:58,526 - ERROR - No route found for record 11103086
-2024-12-11 12:54:06,797 - ERROR - No route found for record 6311080
-2024-12-11 12:54:20,283 - ERROR - No route found for record 5135855
-2024-12-11 12:54:28,888 - ERROR - No route found for record 1845648
-2024-12-11 12:54:38,647 - ERROR - No route found for record 8548912
-2024-12-11 12:54:42,335 - ERROR - No route found for record 9144828
-2024-12-11 12:54:45,831 - ERROR - No route found for record 7285384
-2024-12-11 12:54:57,893 - ERROR - No route found for record 3246638
-2024-12-11 12:55:15,370 - ERROR - No route found for record 1685753
-2024-12-11 12:55:18,033 - ERROR - No route found for record 12921179
-2024-12-11 12:55:19,576 - ERROR - No route found for record 8585928
-2024-12-11 12:55:24,245 - ERROR - No route found for record 3019223
-2024-12-11 12:55:29,636 - ERROR - No route found for record 11583969
-2024-12-11 12:56:02,608 - ERROR - No route found for record 7037241
-2024-12-11 12:56:17,914 - ERROR - No route found for record 13092592
-2024-12-11 12:56:29,756 - ERROR - No route found for record 12000340
-2024-12-11 12:56:37,166 - ERROR - No route found for record 13062177
-2024-12-11 12:56:42,457 - ERROR - No route found for record 13244067
-2024-12-11 12:56:45,108 - ERROR - No route found for record 8254479
-2024-12-11 12:56:50,628 - INFO - Created 1,956 records
-2024-12-11 12:56:56,805 - ERROR - No route found for record 7445895
-2024-12-11 12:56:58,564 - ERROR - No route found for record 1787306
-2024-12-11 12:57:17,125 - ERROR - No route found for record 5291099
-2024-12-11 12:57:29,749 - ERROR - No route found for record 9345292
-2024-12-11 12:57:41,424 - ERROR - No route found for record 9832067
-2024-12-11 12:57:45,827 - ERROR - No route found for record 3806563
-2024-12-11 12:57:47,233 - ERROR - No route found for record 3941522
-2024-12-11 12:57:47,544 - ERROR - No route found for record 7203222
-2024-12-11 12:58:02,709 - ERROR - No route found for record 10324812
-2024-12-11 12:58:08,029 - ERROR - No route found for record 10958949
-2024-12-11 12:58:21,006 - ERROR - No route found for record 6958968
-2024-12-11 12:58:26,904 - ERROR - No route found for record 13205318
-2024-12-11 12:58:30,104 - ERROR - No route found for record 216639
-2024-12-11 12:58:32,517 - ERROR - No route found for record 986753
-2024-12-11 12:58:35,213 - ERROR - No route found for record 7866998
-2024-12-11 12:58:35,737 - ERROR - No route found for record 7074675
-2024-12-11 12:58:42,166 - ERROR - No route found for record 12907206
-2024-12-11 12:59:02,497 - ERROR - No route found for record 1729708
-2024-12-11 12:59:15,451 - ERROR - No route found for record 7162852
-2024-12-11 12:59:30,573 - ERROR - No route found for record 7402925
-2024-12-11 12:59:50,873 - ERROR - No route found for record 5887476
-2024-12-11 13:00:00,794 - ERROR - No route found for record 1889446
-2024-12-11 13:00:08,730 - ERROR - No route found for record 457533
-2024-12-11 13:00:20,525 - ERROR - No route found for record 6256952
-2024-12-11 13:00:22,390 - ERROR - No route found for record 3958837
-2024-12-11 13:00:33,008 - ERROR - No route found for record 13030712
-2024-12-11 13:00:41,239 - ERROR - No route found for record 5575336
-2024-12-11 13:01:04,404 - ERROR - No route found for record 219660
-2024-12-11 13:01:17,136 - ERROR - No route found for record 4601361
-2024-12-11 13:01:20,798 - ERROR - No route found for record 8849979
-2024-12-11 13:01:25,862 - ERROR - No route found for record 12072947
-2024-12-11 13:01:25,973 - ERROR - No route found for record 9329396
-2024-12-11 13:01:26,088 - ERROR - No route found for record 10520919
-2024-12-11 13:02:06,187 - ERROR - No route found for record 13925674
-2024-12-11 13:02:20,712 - ERROR - No route found for record 2755872
-2024-12-11 13:02:26,758 - ERROR - No route found for record 13540545
-2024-12-11 13:02:43,488 - ERROR - No route found for record 7834360
-2024-12-11 13:02:46,210 - ERROR - No route found for record 12166904
-2024-12-11 13:03:02,282 - ERROR - No route found for record 5877006
-2024-12-11 13:03:14,158 - ERROR - No route found for record 12486717
-2024-12-11 13:03:25,746 - ERROR - No route found for record 11947406
-2024-12-11 13:03:48,682 - INFO - Created 1,942 records
-2024-12-11 13:04:02,342 - ERROR - No route found for record 11265351
-2024-12-11 13:04:05,346 - ERROR - No route found for record 13131779
-2024-12-11 13:04:18,915 - ERROR - No route found for record 3478758
-2024-12-11 13:04:48,172 - ERROR - No route found for record 3417397
-2024-12-11 13:04:53,614 - ERROR - No route found for record 14313626
-2024-12-11 13:04:54,786 - ERROR - No route found for record 5532759
-2024-12-11 13:05:30,146 - ERROR - No route found for record 8076214
-2024-12-11 13:05:41,851 - ERROR - No route found for record 12054891
-2024-12-11 13:05:42,976 - ERROR - No route found for record 12255778
+2024-12-11 14:02:14,957 - INFO - Processing batch 30000
+2024-12-11 14:02:29,852 - ERROR - No route found for record 4461125
+2024-12-11 14:02:35,497 - ERROR - No route found for record 7381478
+2024-12-11 14:02:40,915 - ERROR - No route found for record 7065024
+2024-12-11 14:02:54,306 - ERROR - No route found for record 11069347
+2024-12-11 14:02:56,266 - ERROR - No route found for record 11035090
+2024-12-11 14:03:00,731 - ERROR - No route found for record 11717531
+2024-12-11 14:03:10,688 - ERROR - No route found for record 13334681
+2024-12-11 14:03:21,813 - ERROR - No route found for record 10583989
+2024-12-11 14:03:22,739 - ERROR - No route found for record 8991203
+2024-12-11 14:03:26,885 - ERROR - No route found for record 7520421
+2024-12-11 14:03:49,398 - ERROR - No route found for record 9610269
+2024-12-11 14:04:12,795 - ERROR - No route found for record 1533344
+2024-12-11 14:04:14,700 - ERROR - No route found for record 11923521
+2024-12-11 14:04:17,250 - ERROR - No route found for record 5874317
+2024-12-11 14:04:39,046 - ERROR - No route found for record 10593048
+2024-12-11 14:04:48,250 - ERROR - No route found for record 5543156
+2024-12-11 14:05:01,987 - ERROR - No route found for record 4302105
+2024-12-11 14:05:02,939 - ERROR - No route found for record 6667745
+2024-12-11 14:05:18,841 - ERROR - No route found for record 1544026
+2024-12-11 14:05:24,822 - ERROR - No route found for record 3110565
+2024-12-11 14:05:32,036 - ERROR - No route found for record 10473862
+2024-12-11 14:05:48,007 - ERROR - No route found for record 10237939
+2024-12-11 14:06:00,430 - ERROR - No route found for record 4887456
+2024-12-11 14:06:05,456 - ERROR - No route found for record 4046517
+2024-12-11 14:06:24,467 - ERROR - No route found for record 7842555
+2024-12-11 14:06:44,234 - ERROR - No route found for record 14262264
+2024-12-11 14:06:53,489 - ERROR - No route found for record 277269
+2024-12-11 14:07:01,731 - ERROR - No route found for record 999238
+2024-12-11 14:07:08,363 - ERROR - No route found for record 8368286
+2024-12-11 14:07:21,857 - ERROR - No route found for record 13361284
+2024-12-11 14:07:36,452 - ERROR - No route found for record 6264912
+2024-12-11 14:07:45,537 - ERROR - No route found for record 1885894
+2024-12-11 14:07:49,180 - ERROR - No route found for record 11405768
+2024-12-11 14:07:54,256 - ERROR - No route found for record 6534964
+2024-12-11 14:07:59,563 - ERROR - No route found for record 7881573
+2024-12-11 14:08:02,867 - ERROR - No route found for record 494571
+2024-12-11 14:08:02,974 - ERROR - No route found for record 9286859
+2024-12-11 14:08:06,666 - ERROR - No route found for record 12454584
+2024-12-11 14:08:08,041 - ERROR - No route found for record 8664402
+2024-12-11 14:08:16,712 - ERROR - No route found for record 12700805
+2024-12-11 14:08:16,822 - ERROR - No route found for record 9888656
+2024-12-11 14:08:20,998 - ERROR - No route found for record 4152288
+2024-12-11 14:08:22,221 - ERROR - No route found for record 7704726
+2024-12-11 14:08:24,257 - ERROR - No route found for record 11033830
+2024-12-11 14:08:28,450 - ERROR - No route found for record 10343816
+2024-12-11 14:08:43,877 - ERROR - No route found for record 6600527
+2024-12-11 14:08:59,609 - ERROR - No route found for record 3584849
+2024-12-11 14:09:09,846 - INFO - Created 672 records
+2024-12-11 14:09:09,847 - INFO - Batch 30000 saved
+2024-12-11 14:09:09,847 - INFO - Processing batch 22000
+2024-12-11 14:09:14,091 - ERROR - No route found for record 5393826
+2024-12-11 14:09:28,479 - ERROR - No route found for record 2011765
+2024-12-11 14:09:50,450 - ERROR - No route found for record 5398003
+2024-12-11 14:09:57,338 - ERROR - No route found for record 6675677
+2024-12-11 14:10:08,372 - ERROR - No route found for record 1834743
+2024-12-11 14:10:11,908 - ERROR - No route found for record 10047343
+2024-12-11 14:10:20,033 - ERROR - No route found for record 8861015
+2024-12-11 14:10:24,435 - ERROR - No route found for record 10898534
+2024-12-11 14:10:36,354 - ERROR - No route found for record 8200772
+2024-12-11 14:10:48,067 - ERROR - No route found for record 9444630
+2024-12-11 14:10:48,247 - ERROR - No route found for record 13141679
+2024-12-11 14:10:51,004 - ERROR - No route found for record 3627549
+2024-12-11 14:11:17,562 - ERROR - No route found for record 11263467
+2024-12-11 14:11:23,224 - ERROR - No route found for record 5398753
+2024-12-11 14:12:07,480 - ERROR - No route found for record 9342113
+2024-12-11 14:12:13,951 - ERROR - No route found for record 1420090
+2024-12-11 14:12:22,828 - ERROR - No route found for record 4621765
+2024-12-11 14:12:44,387 - ERROR - No route found for record 8884383
+2024-12-11 14:13:09,679 - ERROR - No route found for record 8359799
+2024-12-11 14:13:10,788 - ERROR - No route found for record 1723153
+2024-12-11 14:13:21,737 - ERROR - No route found for record 12274839
+2024-12-11 14:13:23,124 - ERROR - No route found for record 14040699
+2024-12-11 14:13:49,155 - ERROR - No route found for record 7578993
+2024-12-11 14:13:59,681 - ERROR - No route found for record 5251568
+2024-12-11 14:14:05,560 - ERROR - No route found for record 3897631
+2024-12-11 14:14:14,799 - ERROR - No route found for record 1992125
+2024-12-11 14:14:40,431 - ERROR - No route found for record 5223367
+2024-12-11 14:15:01,963 - ERROR - No route found for record 13960973
+2024-12-11 14:15:09,063 - ERROR - No route found for record 1658960
+2024-12-11 14:15:11,952 - ERROR - No route found for record 4157200
+2024-12-11 14:15:19,265 - ERROR - No route found for record 9534571
+2024-12-11 14:15:21,611 - ERROR - No route found for record 3333745
+2024-12-11 14:15:28,841 - ERROR - No route found for record 10061275
+2024-12-11 14:15:31,158 - ERROR - No route found for record 4023575
+2024-12-11 14:15:33,499 - ERROR - No route found for record 12630420
+2024-12-11 14:15:33,998 - ERROR - No route found for record 4972664
+2024-12-11 14:16:20,359 - ERROR - No route found for record 12742376
+2024-12-11 14:16:20,712 - ERROR - No route found for record 2004861
+2024-12-11 14:16:29,763 - ERROR - No route found for record 6731249
+2024-12-11 14:16:30,078 - ERROR - No route found for record 5215100
+2024-12-11 14:16:32,135 - INFO - Created 646 records
+2024-12-11 14:16:32,136 - INFO - Batch 22000 saved
+2024-12-11 14:16:32,136 - INFO - Processing batch 14000
+2024-12-11 14:16:41,429 - ERROR - No route found for record 12898064
+2024-12-11 14:17:02,842 - ERROR - No route found for record 9047412
+2024-12-11 14:17:08,546 - ERROR - No route found for record 3166922
+2024-12-11 14:17:18,899 - ERROR - No route found for record 11038500
+2024-12-11 14:17:32,973 - ERROR - No route found for record 7667532
+2024-12-11 14:17:37,051 - ERROR - No route found for record 3972421
+2024-12-11 14:17:44,529 - ERROR - No route found for record 8360434
+2024-12-11 14:18:08,374 - ERROR - No route found for record 2059366
+2024-12-11 14:18:10,447 - ERROR - No route found for record 5433896
+2024-12-11 14:18:13,050 - ERROR - No route found for record 6921156
+2024-12-11 14:18:18,632 - ERROR - No route found for record 7646384
+2024-12-11 14:18:47,356 - ERROR - No route found for record 13671379
+2024-12-11 14:18:54,829 - ERROR - No route found for record 7161512
+2024-12-11 14:18:57,020 - ERROR - No route found for record 13833797
+2024-12-11 14:19:02,405 - ERROR - No route found for record 12408827
+2024-12-11 14:19:14,405 - ERROR - No route found for record 6615046
+2024-12-11 14:19:14,769 - ERROR - No route found for record 14309824
+2024-12-11 14:19:52,694 - ERROR - No route found for record 6837970
+2024-12-11 14:19:57,916 - ERROR - No route found for record 12478216
+2024-12-11 14:20:06,273 - ERROR - No route found for record 14063082
+2024-12-11 14:20:58,141 - ERROR - No route found for record 7102877
+2024-12-11 14:21:07,352 - ERROR - No route found for record 9931945
+2024-12-11 14:21:17,658 - ERROR - No route found for record 2689802
+2024-12-11 14:21:42,967 - ERROR - No route found for record 8632774
+2024-12-11 14:21:43,316 - ERROR - No route found for record 2935298
+2024-12-11 14:22:02,708 - ERROR - No route found for record 10602470
+2024-12-11 14:22:07,425 - ERROR - No route found for record 7497914
+2024-12-11 14:22:34,234 - ERROR - No route found for record 12147213
+2024-12-11 14:22:46,455 - ERROR - No route found for record 14359530
+2024-12-11 14:23:33,637 - ERROR - No route found for record 8121
+2024-12-11 14:23:35,245 - INFO - Created 709 records
+2024-12-11 14:23:35,245 - INFO - Batch 14000 saved
+2024-12-11 14:23:35,246 - INFO - Processing batch 18000
+2024-12-11 14:23:53,520 - ERROR - No route found for record 9847272
+2024-12-11 14:23:55,386 - ERROR - No route found for record 2056101
+2024-12-11 14:24:16,335 - ERROR - No route found for record 1585266
+2024-12-11 14:24:31,045 - ERROR - No route found for record 4144816
+2024-12-11 14:24:45,055 - ERROR - No route found for record 9628898
+2024-12-11 14:25:00,017 - ERROR - No route found for record 5915208
+2024-12-11 14:25:13,669 - ERROR - No route found for record 12840837
+2024-12-11 14:25:16,502 - ERROR - No route found for record 8734164
+2024-12-11 14:25:19,499 - ERROR - No route found for record 5019617
+2024-12-11 14:25:29,818 - ERROR - No route found for record 11509582
+2024-12-11 14:25:53,047 - ERROR - No route found for record 7250701
+2024-12-11 14:25:53,614 - ERROR - No route found for record 7851660
+2024-12-11 14:25:55,222 - ERROR - No route found for record 6367152
+2024-12-11 14:26:01,760 - ERROR - No route found for record 100834
+2024-12-11 14:26:19,639 - ERROR - No route found for record 3701444
+2024-12-11 14:26:20,842 - ERROR - No route found for record 8597005
+2024-12-11 14:26:40,383 - ERROR - No route found for record 12995019
+2024-12-11 14:26:48,348 - ERROR - No route found for record 9747588
+2024-12-11 14:26:49,822 - ERROR - No route found for record 5922867
+2024-12-11 14:27:09,617 - ERROR - No route found for record 6382947
+2024-12-11 14:27:22,775 - ERROR - No route found for record 8132312
+2024-12-11 14:27:32,560 - ERROR - No route found for record 2420350
+2024-12-11 14:28:34,629 - ERROR - No route found for record 6468689
+2024-12-11 14:28:38,209 - ERROR - No route found for record 13427543
+2024-12-11 14:29:15,671 - ERROR - No route found for record 11323168
+2024-12-11 14:29:18,556 - ERROR - No route found for record 2105027
+2024-12-11 14:29:36,945 - ERROR - No route found for record 4927034
+2024-12-11 14:29:42,211 - ERROR - No route found for record 7574893
+2024-12-11 14:29:46,712 - ERROR - No route found for record 10383434
+2024-12-11 14:29:48,382 - ERROR - No route found for record 9841499
+2024-12-11 14:30:13,231 - ERROR - No route found for record 3123970
+2024-12-11 14:30:22,575 - ERROR - No route found for record 7928822
+2024-12-11 14:30:24,631 - ERROR - No route found for record 8859939
+2024-12-11 14:30:37,101 - ERROR - No route found for record 4319488
+2024-12-11 14:30:37,168 - INFO - Created 669 records
+2024-12-11 14:30:37,169 - INFO - Batch 18000 saved
+2024-12-11 14:30:37,169 - INFO - Processing batch 20000
+2024-12-11 14:30:39,573 - ERROR - No route found for record 9601620
+2024-12-11 14:30:42,963 - ERROR - No route found for record 3251647
+2024-12-11 14:30:44,556 - ERROR - No route found for record 7609113
+2024-12-11 14:30:54,476 - ERROR - No route found for record 12792690
+2024-12-11 14:30:55,474 - ERROR - No route found for record 6677521
+2024-12-11 14:31:09,849 - ERROR - No route found for record 10217323
+2024-12-11 14:31:11,923 - ERROR - No route found for record 1128552
+2024-12-11 14:31:21,340 - ERROR - No route found for record 9241872
+2024-12-11 14:31:24,214 - ERROR - No route found for record 1742785
+2024-12-11 14:31:37,171 - ERROR - No route found for record 4304386
+2024-12-11 14:31:41,164 - ERROR - No route found for record 6243494
+2024-12-11 14:31:43,252 - ERROR - No route found for record 1850733
+2024-12-11 14:31:50,658 - ERROR - No route found for record 3863706
+2024-12-11 14:32:14,613 - ERROR - No route found for record 3722160
+2024-12-11 14:32:17,692 - ERROR - No route found for record 7240703
+2024-12-11 14:32:21,950 - ERROR - No route found for record 7187931
+2024-12-11 14:32:29,498 - ERROR - No route found for record 10732304
+2024-12-11 14:32:53,037 - ERROR - No route found for record 10481920
+2024-12-11 14:33:02,344 - ERROR - No route found for record 3979558
+2024-12-11 14:33:02,944 - ERROR - No route found for record 14090553
+2024-12-11 14:33:07,948 - ERROR - No route found for record 7862124
+2024-12-11 14:33:12,332 - ERROR - No route found for record 10247182
+2024-12-11 14:33:14,272 - ERROR - No route found for record 4117210
+2024-12-11 14:33:34,178 - ERROR - No route found for record 9541043
+2024-12-11 14:33:45,589 - ERROR - No route found for record 8926850
+2024-12-11 14:34:16,826 - ERROR - No route found for record 12454972
+2024-12-11 14:34:19,638 - ERROR - No route found for record 5398661
+2024-12-11 14:34:24,178 - ERROR - No route found for record 8346629
+2024-12-11 14:34:29,684 - ERROR - No route found for record 11254409
+2024-12-11 14:34:34,846 - ERROR - No route found for record 3151288
+2024-12-11 14:34:37,223 - ERROR - No route found for record 1254370
+2024-12-11 14:34:54,076 - ERROR - No route found for record 11471858
+2024-12-11 14:35:24,907 - ERROR - No route found for record 6968290
+2024-12-11 14:35:27,786 - ERROR - No route found for record 7522473
+2024-12-11 14:35:27,904 - ERROR - No route found for record 2102539
+2024-12-11 14:35:44,926 - ERROR - No route found for record 7207594
+2024-12-11 14:35:47,037 - ERROR - No route found for record 420241
+2024-12-11 14:35:51,017 - ERROR - No route found for record 2853467
+2024-12-11 14:35:53,575 - ERROR - No route found for record 2042974
+2024-12-11 14:35:54,537 - ERROR - No route found for record 12515481
+2024-12-11 14:35:55,309 - ERROR - No route found for record 2767215
+2024-12-11 14:36:08,211 - ERROR - No route found for record 5434751
+2024-12-11 14:36:42,305 - ERROR - No route found for record 9722148
+2024-12-11 14:36:59,798 - ERROR - No route found for record 1038319
+2024-12-11 14:37:16,857 - ERROR - No route found for record 362391
+2024-12-11 14:37:19,264 - ERROR - No route found for record 7287808
+2024-12-11 14:37:26,331 - ERROR - No route found for record 8159222
+2024-12-11 14:37:41,585 - INFO - Created 639 records
+2024-12-11 14:37:41,585 - INFO - Batch 20000 saved
+2024-12-11 14:37:41,585 - INFO - Processing batch 32000
+2024-12-11 14:37:44,292 - ERROR - No route found for record 6403532
+2024-12-11 14:37:44,639 - ERROR - No route found for record 6742859
+2024-12-11 14:37:45,447 - ERROR - No route found for record 6076668
+2024-12-11 14:38:09,334 - ERROR - No route found for record 11448701
+2024-12-11 14:38:12,006 - ERROR - No route found for record 13837415
+2024-12-11 14:38:15,153 - ERROR - No route found for record 8259972
+2024-12-11 14:38:28,380 - ERROR - No route found for record 7975848
+2024-12-11 14:38:34,026 - ERROR - No route found for record 6492424
+2024-12-11 14:38:39,900 - ERROR - No route found for record 9388377
+2024-12-11 14:38:43,902 - ERROR - No route found for record 11570005
+2024-12-11 14:38:52,173 - ERROR - No route found for record 6298306
+2024-12-11 14:39:18,140 - ERROR - No route found for record 13225137
+2024-12-11 14:39:19,945 - ERROR - No route found for record 12727514
+2024-12-11 14:39:24,668 - ERROR - No route found for record 932461
+2024-12-11 14:39:26,216 - ERROR - No route found for record 6781782
+2024-12-11 14:39:50,472 - ERROR - No route found for record 3521624
+2024-12-11 14:39:54,756 - ERROR - No route found for record 10715383
+2024-12-11 14:40:24,728 - ERROR - No route found for record 5055498
+2024-12-11 14:41:07,174 - ERROR - No route found for record 13533640
+2024-12-11 14:41:37,496 - ERROR - No route found for record 1583151
+2024-12-11 14:41:40,895 - ERROR - No route found for record 6620014
+2024-12-11 14:41:43,607 - ERROR - No route found for record 3541804
+2024-12-11 14:41:46,013 - ERROR - No route found for record 1761544
+2024-12-11 14:41:55,884 - ERROR - No route found for record 5948114
+2024-12-11 14:42:03,398 - ERROR - No route found for record 997948
+2024-12-11 14:43:08,648 - ERROR - No route found for record 2964602
+2024-12-11 14:43:08,773 - ERROR - No route found for record 6397172
+2024-12-11 14:43:10,660 - ERROR - No route found for record 6354218
+2024-12-11 14:43:18,987 - ERROR - No route found for record 9015506
+2024-12-11 14:43:20,888 - ERROR - No route found for record 7136026
+2024-12-11 14:43:23,226 - ERROR - No route found for record 2054003
+2024-12-11 14:43:23,339 - ERROR - No route found for record 5057350
+2024-12-11 14:44:02,879 - ERROR - No route found for record 9169438
+2024-12-11 14:44:07,027 - ERROR - No route found for record 8761983
+2024-12-11 14:44:28,828 - ERROR - No route found for record 3100738
+2024-12-11 14:44:29,360 - ERROR - No route found for record 5189881
+2024-12-11 14:44:29,913 - ERROR - No route found for record 4418249
+2024-12-11 14:44:32,154 - ERROR - No route found for record 13233909
+2024-12-11 14:44:33,072 - ERROR - No route found for record 4407107
+2024-12-11 14:44:35,142 - INFO - Created 666 records
+2024-12-11 14:44:35,142 - INFO - Batch 32000 saved
+2024-12-11 14:44:35,142 - INFO - Processing batch 16000
+2024-12-11 14:44:39,866 - ERROR - No route found for record 3527236
+2024-12-11 14:45:08,836 - ERROR - No route found for record 10668263
+2024-12-11 14:45:08,948 - ERROR - No route found for record 6112806
+2024-12-11 14:45:10,517 - ERROR - No route found for record 4498017
+2024-12-11 14:45:27,449 - ERROR - No route found for record 7988167
+2024-12-11 14:45:28,120 - ERROR - No route found for record 9815832
+2024-12-11 14:45:29,245 - ERROR - No route found for record 7333935
+2024-12-11 14:46:05,690 - ERROR - No route found for record 4154688
+2024-12-11 14:46:25,697 - ERROR - No route found for record 9305138
+2024-12-11 14:46:35,477 - ERROR - No route found for record 11128351
+2024-12-11 14:47:26,315 - ERROR - No route found for record 5477942
+2024-12-11 14:47:27,689 - ERROR - No route found for record 7783904
+2024-12-11 14:47:50,063 - ERROR - No route found for record 2602469
+2024-12-11 14:47:56,731 - ERROR - No route found for record 8655686
+2024-12-11 14:48:06,678 - ERROR - No route found for record 291745
+2024-12-11 14:48:39,475 - ERROR - No route found for record 414382
+2024-12-11 14:48:52,768 - ERROR - No route found for record 8713683
+2024-12-11 14:48:58,170 - ERROR - No route found for record 9071389
+2024-12-11 14:49:01,758 - ERROR - No route found for record 12956464
+2024-12-11 14:49:03,535 - ERROR - No route found for record 3213925
+2024-12-11 14:49:05,606 - ERROR - No route found for record 6905607
+2024-12-11 14:49:27,287 - ERROR - No route found for record 7302834
+2024-12-11 14:49:30,324 - ERROR - No route found for record 8017527
+2024-12-11 14:49:34,907 - ERROR - No route found for record 9223178
+2024-12-11 14:49:52,201 - ERROR - No route found for record 8227106
+2024-12-11 14:49:53,482 - ERROR - No route found for record 10161818
+2024-12-11 14:49:55,879 - ERROR - No route found for record 38741
+2024-12-11 14:50:08,746 - ERROR - No route found for record 12458062
+2024-12-11 14:50:09,269 - ERROR - No route found for record 5461658
+2024-12-11 14:50:18,075 - ERROR - No route found for record 7914126
+2024-12-11 14:50:18,413 - ERROR - No route found for record 9664288
+2024-12-11 14:50:33,829 - ERROR - No route found for record 13208716
+2024-12-11 14:50:52,416 - ERROR - No route found for record 13237912
+2024-12-11 14:50:52,533 - ERROR - No route found for record 2858448
+2024-12-11 14:50:54,538 - ERROR - No route found for record 1898027
+2024-12-11 14:50:58,738 - ERROR - No route found for record 11513424
+2024-12-11 14:51:31,717 - INFO - Created 656 records
+2024-12-11 14:51:31,717 - INFO - Batch 16000 saved
+2024-12-11 14:51:31,717 - INFO - Processing batch 12000
+2024-12-11 14:51:41,138 - ERROR - No route found for record 5357210
+2024-12-11 14:51:43,230 - ERROR - No route found for record 7985612
+2024-12-11 14:51:50,823 - ERROR - No route found for record 7028754
+2024-12-11 14:51:56,875 - ERROR - No route found for record 4895257
+2024-12-11 14:52:00,400 - ERROR - No route found for record 108836
+2024-12-11 14:52:07,425 - ERROR - No route found for record 7859642
+2024-12-11 14:52:12,716 - ERROR - No route found for record 11487538
+2024-12-11 14:52:21,338 - ERROR - No route found for record 9248409
+2024-12-11 14:52:26,895 - ERROR - No route found for record 1061245
+2024-12-11 14:53:03,973 - ERROR - No route found for record 5816527
+2024-12-11 14:53:26,405 - ERROR - No route found for record 1583220
+2024-12-11 14:53:38,417 - ERROR - No route found for record 12965824
+2024-12-11 14:53:39,341 - ERROR - No route found for record 415978
+2024-12-11 14:53:50,697 - ERROR - No route found for record 13301970
+2024-12-11 14:54:23,758 - ERROR - No route found for record 2464811
+2024-12-11 14:55:06,854 - ERROR - No route found for record 7580506
+2024-12-11 14:55:08,608 - ERROR - No route found for record 12978808
+2024-12-11 14:55:17,225 - ERROR - No route found for record 13806497
+2024-12-11 14:55:17,331 - ERROR - No route found for record 5128325
+2024-12-11 14:55:21,989 - ERROR - No route found for record 5289588
+2024-12-11 14:55:35,788 - ERROR - No route found for record 2321923
+2024-12-11 14:55:46,482 - ERROR - No route found for record 7185363
+2024-12-11 14:56:18,691 - ERROR - No route found for record 1882365
+2024-12-11 14:56:19,277 - ERROR - No route found for record 3222678
+2024-12-11 14:56:43,456 - ERROR - No route found for record 11057337
+2024-12-11 14:56:54,051 - ERROR - No route found for record 6116347
+2024-12-11 14:56:57,663 - ERROR - No route found for record 8279304
+2024-12-11 14:57:27,087 - ERROR - No route found for record 1293834
+2024-12-11 14:57:29,842 - ERROR - No route found for record 7398709
+2024-12-11 14:58:25,124 - ERROR - No route found for record 252916
+2024-12-11 14:58:28,117 - INFO - Created 646 records
+2024-12-11 14:58:28,118 - INFO - Batch 12000 saved
+2024-12-11 14:58:28,118 - INFO - Processing batch 36000
+2024-12-11 14:58:47,355 - ERROR - No route found for record 11326619
+2024-12-11 14:58:52,918 - ERROR - No route found for record 7640087
+2024-12-11 14:58:57,944 - ERROR - No route found for record 5248421
+2024-12-11 14:59:29,757 - ERROR - No route found for record 9928789
+2024-12-11 14:59:30,095 - ERROR - No route found for record 7506338
+2024-12-11 14:59:34,555 - ERROR - No route found for record 6671247
+2024-12-11 14:59:40,517 - ERROR - No route found for record 2823810
+2024-12-11 14:59:49,070 - ERROR - No route found for record 5024135
+2024-12-11 14:59:58,580 - ERROR - No route found for record 13642046
+2024-12-11 14:59:59,299 - ERROR - No route found for record 13157470
+2024-12-11 15:00:26,066 - ERROR - No route found for record 4387320
+2024-12-11 15:00:45,218 - ERROR - No route found for record 12091240
+2024-12-11 15:00:47,163 - ERROR - No route found for record 4877460
+2024-12-11 15:00:58,971 - ERROR - No route found for record 10714555
+2024-12-11 15:01:01,153 - ERROR - No route found for record 2606331
+2024-12-11 15:01:04,938 - ERROR - No route found for record 11628670
+2024-12-11 15:01:42,987 - ERROR - No route found for record 5012314
+2024-12-11 15:01:59,318 - ERROR - No route found for record 9653474
+2024-12-11 15:02:10,814 - ERROR - No route found for record 9903610
+2024-12-11 15:02:22,608 - ERROR - No route found for record 3156295
+2024-12-11 15:02:25,707 - ERROR - No route found for record 8462645
+2024-12-11 15:02:29,967 - ERROR - No route found for record 8230991
+2024-12-11 15:02:34,255 - ERROR - No route found for record 6213476
+2024-12-11 15:02:51,364 - ERROR - No route found for record 2493988
+2024-12-11 15:02:58,970 - ERROR - No route found for record 8263364
+2024-12-11 15:03:27,979 - ERROR - No route found for record 1411575
+2024-12-11 15:03:49,517 - ERROR - No route found for record 8057270
+2024-12-11 15:04:08,383 - ERROR - No route found for record 12549893
+2024-12-11 15:04:10,849 - ERROR - No route found for record 3051142
+2024-12-11 15:04:11,993 - ERROR - No route found for record 10920429
+2024-12-11 15:04:24,977 - ERROR - No route found for record 12261299
+2024-12-11 15:04:30,441 - ERROR - No route found for record 9223156
+2024-12-11 15:04:36,168 - ERROR - No route found for record 8315989
+2024-12-11 15:04:40,196 - ERROR - No route found for record 4863207
+2024-12-11 15:05:12,951 - ERROR - No route found for record 2326691
+2024-12-11 15:05:13,148 - ERROR - No route found for record 1196656
+2024-12-11 15:05:18,591 - ERROR - No route found for record 6111743
+2024-12-11 15:05:25,395 - INFO - Created 651 records
+2024-12-11 15:05:25,395 - INFO - Batch 36000 saved
+2024-12-11 15:05:25,395 - INFO - Processing batch 28000
+2024-12-11 15:06:07,596 - ERROR - No route found for record 4480542
+2024-12-11 15:06:30,797 - ERROR - No route found for record 13059747
+2024-12-11 15:06:39,291 - ERROR - No route found for record 6613793
+2024-12-11 15:07:00,218 - ERROR - No route found for record 13297606
+2024-12-11 15:07:01,528 - ERROR - No route found for record 459814
+2024-12-11 15:07:05,156 - ERROR - No route found for record 2867320
+2024-12-11 15:07:07,150 - ERROR - No route found for record 9525361
+2024-12-11 15:07:08,065 - ERROR - No route found for record 7409015
+2024-12-11 15:07:40,138 - ERROR - No route found for record 3190745
+2024-12-11 15:08:06,857 - ERROR - No route found for record 1102094
+2024-12-11 15:08:08,755 - ERROR - No route found for record 10537160
+2024-12-11 15:08:19,406 - ERROR - No route found for record 11971149
+2024-12-11 15:08:19,759 - ERROR - No route found for record 1901533
+2024-12-11 15:08:24,450 - ERROR - No route found for record 13748548
+2024-12-11 15:08:32,881 - ERROR - No route found for record 7095604
+2024-12-11 15:09:12,074 - ERROR - No route found for record 11854502
+2024-12-11 15:09:14,811 - ERROR - No route found for record 1076944
+2024-12-11 15:09:23,863 - ERROR - No route found for record 4596853
+2024-12-11 15:09:55,079 - ERROR - No route found for record 1401755
+2024-12-11 15:10:08,403 - ERROR - No route found for record 12648636
+2024-12-11 15:10:22,900 - ERROR - No route found for record 11364826
+2024-12-11 15:10:30,188 - ERROR - No route found for record 4337633
+2024-12-11 15:10:31,528 - ERROR - No route found for record 3484289
+2024-12-11 15:10:56,514 - ERROR - No route found for record 3086154
+2024-12-11 15:10:57,900 - ERROR - No route found for record 13028678
+2024-12-11 15:11:08,834 - ERROR - No route found for record 8649264
+2024-12-11 15:11:14,684 - ERROR - No route found for record 8620885
+2024-12-11 15:11:17,436 - ERROR - No route found for record 5251438
+2024-12-11 15:11:19,331 - ERROR - No route found for record 13133978
+2024-12-11 15:11:49,337 - ERROR - No route found for record 8605815
+2024-12-11 15:11:52,852 - ERROR - No route found for record 1961334
+2024-12-11 15:11:55,847 - ERROR - No route found for record 3411336
+2024-12-11 15:12:10,175 - ERROR - No route found for record 12526550
+2024-12-11 15:12:14,623 - ERROR - No route found for record 2388537
+2024-12-11 15:12:17,337 - ERROR - No route found for record 2103834
+2024-12-11 15:12:34,630 - INFO - Created 664 records
+2024-12-11 15:12:34,630 - INFO - Batch 28000 saved
+2024-12-11 15:12:34,630 - INFO - Processing batch 24000
+2024-12-11 15:12:37,353 - ERROR - No route found for record 2195870
+2024-12-11 15:12:45,234 - ERROR - No route found for record 9911518
+2024-12-11 15:12:56,524 - ERROR - No route found for record 8635813
+2024-12-11 15:13:12,987 - ERROR - No route found for record 9602493
+2024-12-11 15:13:15,426 - ERROR - No route found for record 2252748
+2024-12-11 15:13:29,024 - ERROR - No route found for record 8660236
+2024-12-11 15:13:39,843 - ERROR - No route found for record 9800903
+2024-12-11 15:13:41,157 - ERROR - No route found for record 4730235
+2024-12-11 15:13:52,976 - ERROR - No route found for record 455335
+2024-12-11 15:13:53,365 - ERROR - No route found for record 8599127
+2024-12-11 15:14:03,130 - ERROR - No route found for record 6139858
+2024-12-11 15:14:31,010 - ERROR - No route found for record 1561556
+2024-12-11 15:14:35,018 - ERROR - No route found for record 6262373
+2024-12-11 15:14:40,663 - ERROR - No route found for record 10254737
+2024-12-11 15:14:52,305 - ERROR - No route found for record 391997
+2024-12-11 15:14:56,769 - ERROR - No route found for record 4175850
+2024-12-11 15:14:58,002 - ERROR - No route found for record 10329330
+2024-12-11 15:15:11,216 - ERROR - No route found for record 10929383
+2024-12-11 15:15:12,888 - ERROR - No route found for record 2285893
+2024-12-11 15:15:19,679 - ERROR - No route found for record 14330061
+2024-12-11 15:15:20,661 - ERROR - No route found for record 8825648
+2024-12-11 15:15:35,829 - ERROR - No route found for record 11994196
+2024-12-11 15:15:39,152 - ERROR - No route found for record 7617650
+2024-12-11 15:15:45,639 - ERROR - No route found for record 4591032
+2024-12-11 15:15:50,759 - ERROR - No route found for record 4101108
+2024-12-11 15:16:13,055 - ERROR - No route found for record 5940751
+2024-12-11 15:16:17,713 - ERROR - No route found for record 14245279
+2024-12-11 15:16:47,435 - ERROR - No route found for record 8914562
+2024-12-11 15:16:58,686 - ERROR - No route found for record 10968324
+2024-12-11 15:17:24,646 - ERROR - No route found for record 2890069
+2024-12-11 15:17:56,997 - ERROR - No route found for record 9928700
+2024-12-11 15:17:58,454 - ERROR - No route found for record 6889513
+2024-12-11 15:18:03,666 - ERROR - No route found for record 2692448
+2024-12-11 15:18:10,267 - ERROR - No route found for record 6631633
+2024-12-11 15:18:10,592 - ERROR - No route found for record 8968664
+2024-12-11 15:18:39,841 - ERROR - No route found for record 3639655
+2024-12-11 15:19:04,034 - ERROR - No route found for record 1005771
+2024-12-11 15:19:33,168 - ERROR - No route found for record 8671930
+2024-12-11 15:19:40,816 - INFO - Created 671 records
+2024-12-11 15:19:40,816 - INFO - Batch 24000 saved
+2024-12-11 15:19:40,816 - INFO - Processing batch 10000
+2024-12-11 15:19:44,637 - ERROR - No route found for record 13558059
+2024-12-11 15:19:56,373 - ERROR - No route found for record 3489206
+2024-12-11 15:20:00,839 - ERROR - No route found for record 7055531
+2024-12-11 15:20:24,177 - ERROR - No route found for record 4104946
+2024-12-11 15:20:28,683 - ERROR - No route found for record 8276833
+2024-12-11 15:20:34,721 - ERROR - No route found for record 2396832
+2024-12-11 15:20:53,606 - ERROR - No route found for record 12038678
+2024-12-11 15:21:02,269 - ERROR - No route found for record 8481171
+2024-12-11 15:21:38,857 - ERROR - No route found for record 9101558
+2024-12-11 15:21:52,736 - ERROR - No route found for record 5705632
+2024-12-11 15:22:16,327 - ERROR - No route found for record 13845153
+2024-12-11 15:22:19,724 - ERROR - No route found for record 13971814
+2024-12-11 15:22:29,816 - ERROR - No route found for record 7462721
+2024-12-11 15:22:34,167 - ERROR - No route found for record 11048959
+2024-12-11 15:22:36,633 - ERROR - No route found for record 5392579
+2024-12-11 15:23:16,534 - ERROR - No route found for record 12520055
+2024-12-11 15:23:48,456 - ERROR - No route found for record 8631338
+2024-12-11 15:24:05,648 - ERROR - No route found for record 5203882
+2024-12-11 15:24:10,285 - ERROR - No route found for record 7567981
+2024-12-11 15:24:26,268 - ERROR - No route found for record 742305
+2024-12-11 15:24:30,492 - ERROR - No route found for record 9017283
+2024-12-11 15:24:39,115 - ERROR - No route found for record 5290295
+2024-12-11 15:24:44,727 - ERROR - No route found for record 9021063
+2024-12-11 15:24:45,742 - ERROR - No route found for record 3352122
+2024-12-11 15:24:51,238 - ERROR - No route found for record 1193544
+2024-12-11 15:25:12,688 - ERROR - No route found for record 10902394
+2024-12-11 15:25:17,442 - ERROR - No route found for record 10669842
+2024-12-11 15:25:43,989 - ERROR - No route found for record 14074836
+2024-12-11 15:25:52,675 - ERROR - No route found for record 696151
+2024-12-11 15:26:15,236 - ERROR - No route found for record 11786076
+2024-12-11 15:26:29,968 - ERROR - No route found for record 7870123
+2024-12-11 15:26:37,184 - ERROR - No route found for record 817414
+2024-12-11 15:26:39,077 - ERROR - No route found for record 1095714
+2024-12-11 15:26:56,515 - INFO - Created 651 records
+2024-12-11 15:26:56,515 - INFO - Batch 10000 saved
+2024-12-11 15:26:56,515 - INFO - Processing batch 38000
+2024-12-11 15:27:10,758 - ERROR - No route found for record 924487
+2024-12-11 15:27:22,946 - ERROR - No route found for record 14139948
+2024-12-11 15:28:04,133 - ERROR - No route found for record 8210040
+2024-12-11 15:28:15,192 - ERROR - No route found for record 9075326
+2024-12-11 15:28:29,312 - ERROR - No route found for record 1809747
+2024-12-11 15:28:31,242 - ERROR - No route found for record 8221616
+2024-12-11 15:28:32,969 - ERROR - No route found for record 5964027
+2024-12-11 15:28:38,302 - ERROR - No route found for record 10667395
+2024-12-11 15:28:48,295 - ERROR - No route found for record 317412
+2024-12-11 15:29:01,656 - ERROR - No route found for record 9108328
+2024-12-11 15:29:03,845 - ERROR - No route found for record 2363927
+2024-12-11 15:29:51,153 - ERROR - No route found for record 3077710
+2024-12-11 15:29:51,733 - ERROR - No route found for record 5338120
+2024-12-11 15:30:14,369 - ERROR - No route found for record 6207059
+2024-12-11 15:30:29,778 - ERROR - No route found for record 6883307
+2024-12-11 15:30:33,963 - ERROR - No route found for record 6247710
+2024-12-11 15:30:34,365 - ERROR - No route found for record 8861782
+2024-12-11 15:30:41,070 - ERROR - No route found for record 6691802
+2024-12-11 15:30:46,082 - ERROR - No route found for record 10700880
+2024-12-11 15:30:51,521 - ERROR - No route found for record 5786627
+2024-12-11 15:30:56,137 - ERROR - No route found for record 13431564
+2024-12-11 15:31:00,183 - ERROR - No route found for record 7404934
+2024-12-11 15:31:05,563 - ERROR - No route found for record 5011839
+2024-12-11 15:31:07,917 - ERROR - No route found for record 3739338
+2024-12-11 15:31:32,824 - ERROR - No route found for record 12052606
+2024-12-11 15:31:39,098 - ERROR - No route found for record 4074390
+2024-12-11 15:31:49,354 - ERROR - No route found for record 6276374
+2024-12-11 15:31:55,751 - ERROR - No route found for record 8751754
+2024-12-11 15:32:02,434 - ERROR - No route found for record 10594936
+2024-12-11 15:32:18,736 - ERROR - No route found for record 2726634
+2024-12-11 15:32:29,823 - ERROR - No route found for record 12565023
+2024-12-11 15:32:50,847 - ERROR - No route found for record 9076733
+2024-12-11 15:33:24,208 - ERROR - No route found for record 8378556
+2024-12-11 15:33:46,957 - ERROR - No route found for record 8878182
+2024-12-11 15:33:49,810 - ERROR - No route found for record 2008889
+2024-12-11 15:33:53,800 - INFO - Created 729 records
+2024-12-11 15:33:53,800 - INFO - Batch 38000 saved
+2024-12-11 15:33:53,800 - INFO - Processing batch 26000
+2024-12-11 15:34:01,894 - ERROR - No route found for record 2434314
+2024-12-11 15:34:07,745 - ERROR - No route found for record 11203786
+2024-12-11 15:34:16,433 - ERROR - No route found for record 6537150
+2024-12-11 15:34:32,026 - ERROR - No route found for record 315618
+2024-12-11 15:34:43,206 - ERROR - No route found for record 9519215
+2024-12-11 15:34:55,706 - ERROR - No route found for record 8163492
+2024-12-11 15:35:04,594 - ERROR - No route found for record 4867857
+2024-12-11 15:35:06,089 - ERROR - No route found for record 5045385
+2024-12-11 15:35:07,649 - ERROR - No route found for record 11482933
+2024-12-11 15:35:20,798 - ERROR - No route found for record 6135485
+2024-12-11 15:35:28,950 - ERROR - No route found for record 6175791
+2024-12-11 15:35:33,694 - ERROR - No route found for record 12347898
+2024-12-11 15:35:42,518 - ERROR - No route found for record 1263280
+2024-12-11 15:35:49,244 - ERROR - No route found for record 10689263
+2024-12-11 15:35:52,047 - ERROR - No route found for record 5337177
+2024-12-11 15:35:59,126 - ERROR - No route found for record 2268328
+2024-12-11 15:36:04,137 - ERROR - No route found for record 7476838
+2024-12-11 15:36:09,034 - ERROR - No route found for record 4959863
+2024-12-11 15:36:17,582 - ERROR - No route found for record 5335153
+2024-12-11 15:36:18,536 - ERROR - No route found for record 11073562
+2024-12-11 15:36:19,033 - ERROR - No route found for record 11175090
+2024-12-11 15:36:22,290 - ERROR - No route found for record 9040861
+2024-12-11 15:36:30,057 - ERROR - No route found for record 13578450
+2024-12-11 15:36:35,476 - ERROR - No route found for record 13233285
+2024-12-11 15:36:37,565 - ERROR - No route found for record 11020514
+2024-12-11 15:36:43,165 - ERROR - No route found for record 6560273
+2024-12-11 15:36:48,137 - ERROR - No route found for record 916534
+2024-12-11 15:36:57,147 - ERROR - No route found for record 13192369
+2024-12-11 15:37:11,859 - ERROR - No route found for record 11174649
+2024-12-11 15:37:22,627 - ERROR - No route found for record 12167353
+2024-12-11 15:37:24,114 - ERROR - No route found for record 9927241
+2024-12-11 15:37:44,150 - ERROR - No route found for record 9517607
+2024-12-11 15:37:47,509 - ERROR - No route found for record 8161626
+2024-12-11 15:37:48,785 - ERROR - No route found for record 7118334
+2024-12-11 15:37:53,314 - ERROR - No route found for record 5235849
+2024-12-11 15:38:00,688 - ERROR - No route found for record 13584192
+2024-12-11 15:38:05,373 - ERROR - No route found for record 11069843
+2024-12-11 15:38:25,197 - ERROR - No route found for record 8940585
+2024-12-11 15:38:28,177 - ERROR - No route found for record 4118128
+2024-12-11 15:38:29,032 - ERROR - No route found for record 95051
+2024-12-11 15:38:42,500 - ERROR - No route found for record 5799829
+2024-12-11 15:38:43,449 - ERROR - No route found for record 10952912
+2024-12-11 15:39:08,535 - ERROR - No route found for record 10541415
+2024-12-11 15:39:22,986 - ERROR - No route found for record 11359486
+2024-12-11 15:39:32,379 - ERROR - No route found for record 8492100
+2024-12-11 15:39:52,678 - ERROR - No route found for record 7503283
+2024-12-11 15:40:12,203 - ERROR - No route found for record 11196592
+2024-12-11 15:40:12,311 - ERROR - No route found for record 5164566
+2024-12-11 15:40:27,155 - ERROR - No route found for record 8619787
+2024-12-11 15:40:40,706 - INFO - Created 639 records
+2024-12-11 15:40:40,706 - INFO - Batch 26000 saved
+2024-12-11 15:40:40,706 - INFO - Processing batch 34000
+2024-12-11 15:40:48,610 - ERROR - No route found for record 6217410
+2024-12-11 15:40:54,567 - ERROR - No route found for record 8282816
+2024-12-11 15:40:56,059 - ERROR - No route found for record 11673407
+2024-12-11 15:40:58,046 - ERROR - No route found for record 11210161
+2024-12-11 15:41:03,960 - ERROR - No route found for record 961792
+2024-12-11 15:41:19,737 - ERROR - No route found for record 3697473
+2024-12-11 15:41:33,872 - ERROR - No route found for record 12559532
+2024-12-11 15:41:41,587 - ERROR - No route found for record 94495
+2024-12-11 15:41:42,906 - ERROR - No route found for record 1609982
+2024-12-11 15:41:48,006 - ERROR - No route found for record 11723724
+2024-12-11 15:41:48,559 - ERROR - No route found for record 7887625
+2024-12-11 15:42:02,448 - ERROR - No route found for record 11874879
+2024-12-11 15:42:03,662 - ERROR - No route found for record 13814117
+2024-12-11 15:42:05,216 - ERROR - No route found for record 9759451
+2024-12-11 15:42:08,790 - ERROR - No route found for record 4647502
+2024-12-11 15:42:24,078 - ERROR - No route found for record 1822489
+2024-12-11 15:42:27,379 - ERROR - No route found for record 8938235
+2024-12-11 15:42:31,587 - ERROR - No route found for record 8940046
+2024-12-11 15:42:38,718 - ERROR - No route found for record 8341271
+2024-12-11 15:42:45,995 - ERROR - No route found for record 9148075
+2024-12-11 15:42:51,115 - ERROR - No route found for record 9706701
+2024-12-11 15:42:53,943 - ERROR - No route found for record 11673276
+2024-12-11 15:42:55,952 - ERROR - No route found for record 2008024
+2024-12-11 15:43:05,848 - ERROR - No route found for record 2267874
+2024-12-11 15:43:39,443 - ERROR - No route found for record 13139047
+2024-12-11 15:43:42,818 - ERROR - No route found for record 9135097
+2024-12-11 15:44:08,260 - ERROR - No route found for record 10796001
+2024-12-11 15:45:05,942 - ERROR - No route found for record 13536865
+2024-12-11 15:45:10,002 - ERROR - No route found for record 10183758
+2024-12-11 15:45:21,101 - ERROR - No route found for record 9110281
+2024-12-11 15:45:27,825 - ERROR - No route found for record 10799975
+2024-12-11 15:45:32,439 - ERROR - No route found for record 823284
+2024-12-11 15:45:59,727 - ERROR - No route found for record 810883
+2024-12-11 15:46:02,415 - ERROR - No route found for record 2758738
+2024-12-11 15:46:03,391 - ERROR - No route found for record 4108316
+2024-12-11 15:46:10,093 - ERROR - No route found for record 7092541
+2024-12-11 15:46:14,627 - ERROR - No route found for record 2865079
+2024-12-11 15:46:24,091 - ERROR - No route found for record 7977789
+2024-12-11 15:46:26,558 - ERROR - No route found for record 7875639
+2024-12-11 15:46:26,665 - ERROR - No route found for record 7366169
+2024-12-11 15:46:28,046 - ERROR - No route found for record 13495425
+2024-12-11 15:46:28,407 - ERROR - No route found for record 13289885
+2024-12-11 15:46:35,481 - ERROR - No route found for record 8137640
+2024-12-11 15:47:19,949 - ERROR - No route found for record 1730783
+2024-12-11 15:47:39,542 - ERROR - No route found for record 6036378
+2024-12-11 15:47:43,138 - INFO - Created 675 records
+2024-12-11 15:47:43,138 - INFO - Batch 34000 saved
+2024-12-11 15:47:43,138 - INFO - Processing batch 40000
+2024-12-11 15:47:50,845 - ERROR - No route found for record 4547842
+2024-12-11 15:48:08,490 - ERROR - No route found for record 6398747
+2024-12-11 15:48:19,366 - ERROR - No route found for record 12280034
+2024-12-11 15:48:24,495 - ERROR - No route found for record 504457
+2024-12-11 15:48:44,219 - ERROR - No route found for record 4983491
+2024-12-11 15:48:44,964 - ERROR - No route found for record 13908600
+2024-12-11 15:48:52,214 - ERROR - No route found for record 10347081
+2024-12-11 15:48:57,074 - ERROR - No route found for record 11993459
+2024-12-11 15:48:59,243 - ERROR - No route found for record 108514
+2024-12-11 15:49:00,419 - ERROR - No route found for record 4651661
+2024-12-11 15:49:16,506 - ERROR - No route found for record 720269
+2024-12-11 15:49:18,063 - ERROR - No route found for record 2536746
+2024-12-11 15:49:27,399 - ERROR - No route found for record 12591836
+2024-12-11 15:49:32,072 - ERROR - No route found for record 9620572
+2024-12-11 15:49:40,531 - ERROR - No route found for record 12516822
+2024-12-11 15:50:12,672 - ERROR - No route found for record 1334244
+2024-12-11 15:50:41,743 - ERROR - No route found for record 5143013
+2024-12-11 15:50:42,682 - ERROR - No route found for record 3353253
+2024-12-11 15:51:07,920 - ERROR - No route found for record 617149
+2024-12-11 15:51:20,033 - ERROR - No route found for record 12494874
+2024-12-11 15:51:21,031 - ERROR - No route found for record 12453039
+2024-12-11 15:51:28,661 - ERROR - No route found for record 5865343
+2024-12-11 15:51:39,522 - ERROR - No route found for record 4640695
+2024-12-11 15:51:40,047 - ERROR - No route found for record 12884111
+2024-12-11 15:51:44,005 - ERROR - No route found for record 5769829
+2024-12-11 15:52:26,127 - ERROR - No route found for record 11324466
+2024-12-11 15:52:30,863 - ERROR - No route found for record 2887490
+2024-12-11 15:53:07,572 - ERROR - No route found for record 11591477
+2024-12-11 15:53:16,171 - ERROR - No route found for record 13387818
+2024-12-11 15:53:18,172 - ERROR - No route found for record 4703685
+2024-12-11 15:53:25,899 - ERROR - No route found for record 181573
+2024-12-11 15:53:38,566 - ERROR - No route found for record 9927315
+2024-12-11 15:53:50,132 - ERROR - No route found for record 8204464
+2024-12-11 15:54:09,205 - ERROR - No route found for record 9417533
+2024-12-11 15:54:36,346 - ERROR - No route found for record 8207945
+2024-12-11 15:54:44,499 - ERROR - No route found for record 7964351
+2024-12-11 15:54:49,692 - ERROR - No route found for record 136688
+2024-12-11 15:54:49,810 - ERROR - No route found for record 3562380
+2024-12-11 15:54:50,895 - INFO - Created 681 records
+2024-12-11 15:54:50,896 - INFO - Batch 40000 saved
+2024-12-11 15:54:50,896 - INFO - Processing batch 4000
+2024-12-11 15:55:05,577 - ERROR - No route found for record 3388127
+2024-12-11 15:55:25,175 - ERROR - No route found for record 10997674
+2024-12-11 15:55:29,710 - ERROR - No route found for record 335735
+2024-12-11 15:55:31,015 - ERROR - No route found for record 13361815
+2024-12-11 15:55:41,548 - ERROR - No route found for record 11753557
+2024-12-11 15:55:48,544 - ERROR - No route found for record 8557752
+2024-12-11 15:56:11,454 - ERROR - No route found for record 1116063
+2024-12-11 15:56:46,766 - ERROR - No route found for record 10724960
+2024-12-11 15:57:13,259 - ERROR - No route found for record 2612471
+2024-12-11 15:57:33,454 - ERROR - No route found for record 627471
+2024-12-11 15:57:43,657 - ERROR - No route found for record 2664979
+2024-12-11 15:57:51,717 - ERROR - No route found for record 12510128
+2024-12-11 15:58:16,038 - ERROR - No route found for record 4958674
+2024-12-11 15:58:37,438 - ERROR - No route found for record 5593206
+2024-12-11 15:58:38,918 - ERROR - No route found for record 11847191
+2024-12-11 15:58:39,483 - ERROR - No route found for record 5766458
+2024-12-11 15:58:40,627 - ERROR - No route found for record 10871382
+2024-12-11 15:58:40,972 - ERROR - No route found for record 974719
+2024-12-11 15:58:59,911 - ERROR - No route found for record 8981943
+2024-12-11 15:59:09,394 - ERROR - No route found for record 11297765
+2024-12-11 15:59:15,290 - ERROR - No route found for record 2473236
+2024-12-11 15:59:17,444 - ERROR - No route found for record 10982623
+2024-12-11 15:59:37,804 - ERROR - No route found for record 9781125
+2024-12-11 15:59:53,395 - ERROR - No route found for record 4298140
+2024-12-11 15:59:58,122 - ERROR - No route found for record 72912
+2024-12-11 15:59:58,441 - ERROR - No route found for record 13598197
+2024-12-11 16:00:07,740 - ERROR - No route found for record 590497
+2024-12-11 16:00:20,611 - ERROR - No route found for record 8714370
+2024-12-11 16:00:42,095 - ERROR - No route found for record 1124458
+2024-12-11 16:00:48,116 - ERROR - No route found for record 12387728
+2024-12-11 16:00:52,308 - ERROR - No route found for record 7109892
+2024-12-11 16:01:19,494 - ERROR - No route found for record 2470029
+2024-12-11 16:01:31,960 - ERROR - No route found for record 5139493
+2024-12-11 16:01:52,628 - ERROR - No route found for record 4902025
+2024-12-11 16:01:54,216 - INFO - Created 648 records
+2024-12-11 16:01:54,217 - INFO - Batch 4000 saved
+2024-12-11 16:01:54,217 - INFO - Processing batch 8000
+2024-12-11 16:01:57,457 - ERROR - No route found for record 7450855
+2024-12-11 16:02:00,103 - ERROR - No route found for record 11567964
+2024-12-11 16:02:32,446 - ERROR - No route found for record 453693
+2024-12-11 16:02:42,590 - ERROR - No route found for record 3035973
+2024-12-11 16:02:55,000 - ERROR - No route found for record 3438064
+2024-12-11 16:02:59,737 - ERROR - No route found for record 7689753
+2024-12-11 16:03:00,259 - ERROR - No route found for record 8789152
+2024-12-11 16:03:08,767 - ERROR - No route found for record 123907
+2024-12-11 16:03:17,625 - ERROR - No route found for record 11868218
+2024-12-11 16:03:42,381 - ERROR - No route found for record 3665654
+2024-12-11 16:03:45,277 - ERROR - No route found for record 5830069
+2024-12-11 16:04:02,808 - ERROR - No route found for record 13574995
+2024-12-11 16:04:30,101 - ERROR - No route found for record 4681229
+2024-12-11 16:04:31,839 - ERROR - No route found for record 1649326
+2024-12-11 16:04:46,502 - ERROR - No route found for record 10187012
+2024-12-11 16:04:58,350 - ERROR - No route found for record 566702
+2024-12-11 16:05:11,301 - ERROR - No route found for record 10162004
+2024-12-11 16:05:20,413 - ERROR - No route found for record 1537200
+2024-12-11 16:05:23,125 - ERROR - No route found for record 4107174
+2024-12-11 16:06:02,379 - ERROR - No route found for record 3882097
+2024-12-11 16:06:03,773 - ERROR - No route found for record 6995728
+2024-12-11 16:06:17,508 - ERROR - No route found for record 1004107
+2024-12-11 16:06:21,623 - ERROR - No route found for record 376990
+2024-12-11 16:06:21,929 - ERROR - No route found for record 6196316
+2024-12-11 16:07:03,749 - ERROR - No route found for record 7701036
+2024-12-11 16:07:06,114 - ERROR - No route found for record 13570386
+2024-12-11 16:07:37,041 - ERROR - No route found for record 14113539
+2024-12-11 16:07:41,832 - ERROR - No route found for record 10769342
+2024-12-11 16:07:56,159 - ERROR - No route found for record 3194491
+2024-12-11 16:08:11,906 - ERROR - No route found for record 3480008
+2024-12-11 16:08:13,733 - ERROR - No route found for record 10277479
+2024-12-11 16:08:48,608 - ERROR - No route found for record 14183357
+2024-12-11 16:08:57,290 - INFO - Created 674 records
+2024-12-11 16:08:57,290 - INFO - Batch 8000 saved
+2024-12-11 16:08:57,290 - INFO - Processing batch 6000
+2024-12-11 16:09:18,633 - ERROR - No route found for record 3631910
+2024-12-11 16:09:22,566 - ERROR - No route found for record 9446875
+2024-12-11 16:09:24,375 - ERROR - No route found for record 7139297
+2024-12-11 16:09:28,744 - ERROR - No route found for record 4468354
+2024-12-11 16:09:37,859 - ERROR - No route found for record 9608299
+2024-12-11 16:09:51,473 - ERROR - No route found for record 2232256
+2024-12-11 16:10:04,087 - ERROR - No route found for record 2990103
+2024-12-11 16:10:31,800 - ERROR - No route found for record 9900134
+2024-12-11 16:10:44,603 - ERROR - No route found for record 7236585
+2024-12-11 16:10:51,556 - ERROR - No route found for record 5476209
+2024-12-11 16:11:01,080 - ERROR - No route found for record 4915413
+2024-12-11 16:12:00,401 - ERROR - No route found for record 605472
+2024-12-11 16:12:50,402 - ERROR - No route found for record 1625677
+2024-12-11 16:12:56,962 - ERROR - No route found for record 10128468
+2024-12-11 16:13:30,667 - ERROR - No route found for record 9700357
+2024-12-11 16:13:33,660 - ERROR - No route found for record 7603194
+2024-12-11 16:13:35,065 - ERROR - No route found for record 5760926
+2024-12-11 16:14:11,003 - ERROR - No route found for record 12317053
+2024-12-11 16:14:15,973 - ERROR - No route found for record 11473771
+2024-12-11 16:14:42,773 - ERROR - No route found for record 1407798
+2024-12-11 16:14:52,944 - ERROR - No route found for record 5626924
+2024-12-11 16:14:57,189 - ERROR - No route found for record 5843194
+2024-12-11 16:15:11,572 - ERROR - No route found for record 9752958
+2024-12-11 16:15:12,557 - ERROR - No route found for record 2706721
+2024-12-11 16:15:57,149 - ERROR - No route found for record 5687998
+2024-12-11 16:16:04,983 - ERROR - No route found for record 6395358
+2024-12-11 16:16:07,363 - ERROR - No route found for record 5519701
+2024-12-11 16:16:08,009 - ERROR - No route found for record 12001739
+2024-12-11 16:16:08,946 - ERROR - No route found for record 13629350
+2024-12-11 16:17:12,041 - INFO - Created 694 records
+2024-12-11 16:17:12,041 - INFO - Batch 6000 saved
+2024-12-11 16:17:12,041 - INFO - Processing batch 2000
+2024-12-11 16:17:36,319 - ERROR - No route found for record 1123792
+2024-12-11 16:17:50,828 - ERROR - No route found for record 8438163
+2024-12-11 16:18:13,330 - ERROR - No route found for record 8856201
+2024-12-11 16:18:31,435 - ERROR - No route found for record 7531953
+2024-12-11 16:18:37,237 - ERROR - No route found for record 3030023
+2024-12-11 16:18:40,806 - ERROR - No route found for record 10479709
+2024-12-11 16:19:26,371 - ERROR - No route found for record 7502844
+2024-12-11 16:19:27,229 - ERROR - No route found for record 13810345
+2024-12-11 16:19:32,206 - ERROR - No route found for record 5525017
+2024-12-11 16:19:34,714 - ERROR - No route found for record 9162363
+2024-12-11 16:19:42,318 - ERROR - No route found for record 12793067
+2024-12-11 16:19:53,891 - ERROR - No route found for record 10811924
+2024-12-11 16:19:56,730 - ERROR - No route found for record 5684095
+2024-12-11 16:20:20,612 - ERROR - No route found for record 10205316
+2024-12-11 16:20:32,404 - ERROR - No route found for record 5156955
+2024-12-11 16:20:46,100 - ERROR - No route found for record 8684044
+2024-12-11 16:21:07,161 - ERROR - No route found for record 7603291
+2024-12-11 16:21:23,462 - ERROR - No route found for record 11892189
+2024-12-11 16:21:25,871 - ERROR - No route found for record 8644282
+2024-12-11 16:21:40,617 - ERROR - No route found for record 9958256
+2024-12-11 16:21:44,742 - ERROR - No route found for record 190071
+2024-12-11 16:21:57,823 - ERROR - No route found for record 10028452
+2024-12-11 16:22:22,228 - ERROR - No route found for record 8248962
+2024-12-11 16:22:25,430 - ERROR - No route found for record 688109
+2024-12-11 16:22:27,417 - ERROR - No route found for record 2275347
+2024-12-11 16:23:01,446 - ERROR - No route found for record 13275040
+2024-12-11 16:23:01,562 - ERROR - No route found for record 1681928
+2024-12-11 16:23:19,102 - ERROR - No route found for record 7050915
+2024-12-11 16:23:44,160 - ERROR - No route found for record 6515175
+2024-12-11 16:24:01,131 - ERROR - No route found for record 8600903
+2024-12-11 16:24:04,934 - ERROR - No route found for record 2531991
+2024-12-11 16:24:07,612 - ERROR - No route found for record 10464969
+2024-12-11 16:24:20,412 - ERROR - No route found for record 10426991
+2024-12-11 16:24:27,560 - ERROR - No route found for record 7025757
+2024-12-11 16:24:37,615 - ERROR - No route found for record 2722695
+2024-12-11 16:25:02,928 - ERROR - No route found for record 11874137
+2024-12-11 16:25:35,371 - INFO - Created 664 records
+2024-12-11 16:25:35,371 - INFO - Batch 2000 saved
