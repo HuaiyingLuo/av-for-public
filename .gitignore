@@ -3,6 +3,7 @@ qgis/
 pu-data/
 pu-routes/
 road-data/
+sample-data/
 log/
 .venv/
 .DS_Store
