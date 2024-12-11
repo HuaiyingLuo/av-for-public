@@ -1,14 +1,21 @@
-2024-12-09 18:31:51,603 - ERROR - No route found for Windsor pl., BK NY;  to nan
-2024-12-09 18:32:02,613 - ERROR - No route found for 266 prospect park west, brooklyn NY; to jfk ; 
-2024-12-09 18:32:07,080 - ERROR - No route found for 654 55 St., BK NY; to vitona Town ; 
-2024-12-09 18:32:08,311 - INFO - Created 120 records
-2024-12-09 20:11:15,674 - ERROR - No route found for Windsor pl., BK NY;  to nan
-2024-12-09 20:11:26,561 - ERROR - No route found for 266 prospect park west, brooklyn NY; to jfk ; 
-2024-12-09 20:11:30,620 - ERROR - No route found for 654 55 St., BK NY; to vitona Town ; 
-2024-12-09 20:11:31,804 - INFO - Created 120 records
-2024-12-09 20:12:27,186 - ERROR - No route found for Windsor pl., BK NY;  to nan
-2024-12-09 20:12:33,551 - ERROR - No route found for 266 prospect park west, brooklyn NY; to jfk ; 
-2024-12-09 20:12:36,088 - ERROR - No route found for 654 55 St., BK NY; to vitona Town ; 
-2024-12-09 20:12:36,840 - INFO - Created 120 records
-2024-12-10 17:51:57,864 - INFO - Created 2 records
-2024-12-11 12:01:01,577 - INFO - Created 2 records
+2024-12-11 12:07:02,924 - ERROR - No route found for 0.0,0.0 to 0.0,0.0
+2024-12-11 12:07:11,682 - ERROR - No route found for 0.0,0.0 to 0.0,0.0
+2024-12-11 12:07:14,953 - ERROR - No route found for 0.0,0.0 to 0.0,0.0
+2024-12-11 12:07:15,077 - ERROR - No route found for 0.0,0.0 to 0.0,0.0
+2024-12-11 12:07:34,975 - ERROR - No route found for 0.0,0.0 to 40.742798,-73.991882
+2024-12-11 12:07:35,696 - ERROR - No route found for 0.0,0.0 to 0.0,0.0
+2024-12-11 12:08:24,360 - ERROR - No route found for 40.760513,-73.958153 to 40.771667,0.0
+2024-12-11 12:08:54,304 - ERROR - No route found for 0.0,0.0 to 0.0,0.0
+2024-12-11 12:08:59,100 - ERROR - No route found for 40.643383,-73.790016 to 0.0,0.0
+2024-12-11 12:09:12,023 - ERROR - No route found for 0.0,0.0 to 0.0,0.0
+2024-12-11 12:09:24,701 - ERROR - No route found for 0.0,0.0 to 0.0,0.0
+2024-12-11 12:09:57,444 - ERROR - No route found for 0.0,0.0 to 0.0,0.0
+2024-12-11 12:10:01,111 - ERROR - No route found for 0.0,0.0 to 0.0,0.0
+2024-12-11 12:10:15,170 - ERROR - No route found for 0.0,0.0 to 0.0,0.0
+2024-12-11 12:10:21,560 - ERROR - No route found for 0.0,0.0 to 0.0,0.0
+2024-12-11 12:10:22,758 - ERROR - No route found for 0.0,0.0 to 0.0,0.0
+2024-12-11 12:10:34,970 - ERROR - No route found for 0.0,0.0 to 0.0,0.0
+2024-12-11 12:10:41,118 - ERROR - No route found for 0.0,0.0 to 0.0,0.0
+2024-12-11 12:11:07,041 - ERROR - No route found for 0.0,0.0 to 0.0,0.0
+2024-12-11 12:11:15,554 - ERROR - No route found for 0.0,0.0 to 0.0,0.0
+2024-12-11 12:11:18,302 - ERROR - No route found for 0.0,0.0 to 0.0,0.0
